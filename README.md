@@ -7,4 +7,4 @@ What it does-
 1. Introduces you with different concepts of the booming domain of Web3.
 2. Tests your knowledge with the help of short quizzes based on the particular topic.
 
-Youtube video link for project: https://youtu.be/VdzZeGuBh6c
+Youtube video link for project: https://youtu.be/CLaEibkf2NE
